@@ -30,8 +30,6 @@ scissors = '''
 print('Welcome to Rock, Paper and Scissors by your guy BIG DICK MANU')
 
 new_list = [rock, paper, scissors]
-# player_input = input('Please select a pattern, rock, paper or scissors? \n')
-# computer_input = random.choice(new_list)
 
 keep_going = True
 while keep_going:
